@@ -15,7 +15,7 @@ $app->get("/banners", function ($request, $response, $arguments) {
         array_push($resource, array("id"=>(int)$row["id"], "uuid"=>$row['uuid'], "image_url"=>$row['image_url'], "caption"=>$row['caption'], "launch_url"=>$row['launch_url'], "description"=>$row['description'], "module_type"=>$row['module_type'], "in_apps"=>$row['in_apps']));
     }
     $db = NULL;
-    $data["status"]=200;
+    $data["status"]="ok";
     $data["error"]=false;
     $data["messsage"]="Ok.";
     $data["data"] = $resource;
