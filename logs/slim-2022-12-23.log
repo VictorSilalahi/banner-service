@@ -1,0 +1,16 @@
+[2022-12-23 00:52:00] [DEBUG]: CORS analysis for request started. 
+[2022-12-23 00:52:00] [INFO]: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"}
+[2022-12-23 00:52:00] [DEBUG]: CORS analysis for request completed. 
+[2022-12-23 07:27:02] [DEBUG]: CORS analysis for request started. 
+[2022-12-23 07:27:02] [INFO]: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"}
+[2022-12-23 07:27:02] [DEBUG]: CORS analysis for request completed. 
+[2022-12-23 08:27:43] [DEBUG]: CORS analysis for request started. 
+[2022-12-23 08:27:43] [INFO]: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"}
+[2022-12-23 08:27:43] [DEBUG]: CORS analysis for request completed. 
+[2022-12-23 08:27:55] [DEBUG]: CORS analysis for request started. 
+[2022-12-23 08:27:55] [INFO]: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"}
+[2022-12-23 08:27:55] [DEBUG]: CORS analysis for request completed. 
+[2022-12-23 08:27:55] [WARNING]: Token not found 
+[2022-12-23 08:28:01] [DEBUG]: CORS analysis for request started. 
+[2022-12-23 08:28:01] [INFO]: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"}
+[2022-12-23 08:28:01] [DEBUG]: CORS analysis for request completed. 

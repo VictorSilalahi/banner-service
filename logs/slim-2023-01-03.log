@@ -1,0 +1,3 @@
+[2023-01-03 14:47:24] [DEBUG]: CORS analysis for request started. 
+[2023-01-03 14:47:24] [INFO]: Request is not CORS (request origin is empty). {"request":null,"server":"[object] (Neomerx\\Cors\\Http\\ParsedUrl: //)"}
+[2023-01-03 14:47:24] [DEBUG]: CORS analysis for request completed. 
